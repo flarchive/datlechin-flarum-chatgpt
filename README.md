@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of datlechin/flarum-chatgpt.** Not for installation: use [Packagist](https://packagist.org/packages/datlechin/flarum-chatgpt) or the [upstream repository](https://github.com/datlechin/flarum-chatgpt).
 
-**0** versions archived · Latest: [`v0.5.0`](https://github.com/flarchive/datlechin-flarum-chatgpt/tree/archive/v0.5.0) · License: `MIT` · Flarum: `^1.8.5`
+**7** versions archived · Latest: [`v0.5.0`](https://github.com/flarchive/datlechin-flarum-chatgpt/tree/archive/v0.5.0) · License: `MIT` · Flarum: `^1.8.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.0.1` | 2023-03-12 | `^1.7.0` | [Browse](https://github.com/flarchive/datlechin-flarum-chatgpt/tree/archive/v0.0.1) |
+| `v0.0.2` | 2023-03-12 | `^1.7.0` | [Browse](https://github.com/flarchive/datlechin-flarum-chatgpt/tree/archive/v0.0.2) |
+| `v0.1.0` | 2023-03-12 | `^1.7.0` | [Browse](https://github.com/flarchive/datlechin-flarum-chatgpt/tree/archive/v0.1.0) |
+| `v0.2.0` | 2023-03-28 | `^1.7.0` | [Browse](https://github.com/flarchive/datlechin-flarum-chatgpt/tree/archive/v0.2.0) |
+| `v0.3.0` | 2023-08-26 | `^1.7.0` | [Browse](https://github.com/flarchive/datlechin-flarum-chatgpt/tree/archive/v0.3.0) |
+| `v0.4.0` | 2023-11-28 | `^1.7.0` | [Browse](https://github.com/flarchive/datlechin-flarum-chatgpt/tree/archive/v0.4.0) |
+| `v0.5.0` | 2024-09-08 | `^1.8.5` | [Browse](https://github.com/flarchive/datlechin-flarum-chatgpt/tree/archive/v0.5.0) |
 
 Catalog entry: [packages/datlechin-flarum-chatgpt.json](https://github.com/flarchive/archive-index/blob/main/packages/datlechin-flarum-chatgpt.json)
 
